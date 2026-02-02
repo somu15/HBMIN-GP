@@ -310,7 +310,7 @@ See LICENSE file for details.
 
 ## Contributing
 
-This is a research codebase for nuclear graphite property modeling. For questions or collaboration opportunities, please contact the repository maintainers. (som.dhulipla@inl.gov)
+This is a research codebase for nuclear graphite property modeling. For questions or collaboration opportunities, please contact the repository maintainers. (som.dhulipala@inl.gov)
 
 ## Citation
 
