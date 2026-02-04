@@ -84,7 +84,7 @@ src/
   - Equation: `ε_creep = ε_elastic + a·exp(-b·T)·σ·γ`
 
 - **Shibata Creep Model**: Fixed empirical coefficients
-  - Based on Japanese graphite correlation data
+  - Based on graphite correlation data provided in reference Shibata 2010
 
 - **Bradford Creep Model**: Physics-based with primary and secondary creep
   - Primary: Dose-rate dependent with exponential dose term

@@ -1027,7 +1027,7 @@ def main():
 
     # Step 6: Generate visualizations
     print("Generating training scatter plots...")
-    results_dir = f'/Users/dhulls/projects/NEAMS/FY_25/Structural/graphiteModels/Results/AllProps{GRAPHITE_GRADE}/{FOLDER_NAME}'
+    results_dir = f'graphiteModels/Results/AllProps{GRAPHITE_GRADE}/{FOLDER_NAME}'
 
     plot_training_scatter(
         train_y, iidc_pred_determ, predictive_bayes.mean(dim=0),

@@ -33,7 +33,7 @@ from torch.distributions.normal import Normal
 import arviz as az
 
 # Set project root and add to path
-PROJECT_ROOT = Path("/Users/dhulls/projects/NEAMS/FY_25/Structural/graphiteModels")
+PROJECT_ROOT = Path("graphiteModels")
 os.chdir(PROJECT_ROOT)
 sys.path.insert(0, str(PROJECT_ROOT))
 
